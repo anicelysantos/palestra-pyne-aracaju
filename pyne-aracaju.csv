@@ -1,13 +1,13 @@
 local,trilha,tipo,título,palestrante
-TIC,Barco de fogo,,Como Análise de Dados com Python me ajudou a correr melhor!,Marcel Caraciolo
-TIC,Barco de fogo,,Analisando dados do ENCEEJA com Python + PowerBI,Anne Kelly
-TIC,Barco de fogo,,Os três primeiros meses de 2020 - Análise com Python do primeiro impacto do covid-19 ,Luis Vinicius
-TIC,Barco de fogo,,De montando UTI de Covid para ir montar layout: o que aprendi na transição de carreira?,Jules
-TIC,Barco de fogo,,Qual a história que você vai contar,Rafa Mengui
-TIC,Barco de fogo,,Sankofa: retornar ao passado para entender o presente e reconstruir o futuro na educação brasileira,Lorena Pereira
-TIC,Barco de fogo,,Python para usuários de planilhas,Anicely
-TIC,Barco de fogo,,"Segurança na internet para crianças e adolescentes, uma análise em diferentes ângulos.",Marianna Ariel
-TIC,Barco de fogo,,Machine Learning em Python para detecção de fraudes no uso de cartão de crédito,Sandra Rosa
+TIC,Barco de fogo,palestra,Como Análise de Dados com Python me ajudou a correr melhor!,Marcel Caraciolo
+TIC,Barco de fogo,palestra,Analisando dados do ENCEEJA com Python + PowerBI,Anne Kelly
+TIC,Barco de fogo,palestra,Os três primeiros meses de 2020 - Análise com Python do primeiro impacto do covid-19 ,Luis Vinicius
+TIC,Barco de fogo,palestra,De montando UTI de Covid para ir montar layout: o que aprendi na transição de carreira?,Jules
+TIC,Barco de fogo,palestra,Qual a história que você vai contar,Rafa Mengui
+TIC,Barco de fogo,palestra,Sankofa: retornar ao passado para entender o presente e reconstruir o futuro na educação brasileira,Lorena Pereira
+TIC,Barco de fogo,palestra,Python para usuários de planilhas,Anicely
+TIC,Barco de fogo,palestra,"Segurança na internet para crianças e adolescentes, uma análise em diferentes ângulos.",Marianna Ariel
+TIC,Barco de fogo,palestra,Machine Learning em Python para detecção de fraudes no uso de cartão de crédito,Sandra Rosa
 TIC,Barco de fogo,palestra,Crie Aplicações facilmente utilizando Streamlit,Fernanda Santos
 TIC,Barco de fogo,palestra,Vieses Algorítmicos e Como Combatê-los,Luiz Fernando
 TIC,Barco de fogo,palestra,Testes em aplicações de processamento de dados,Mayara Machado
