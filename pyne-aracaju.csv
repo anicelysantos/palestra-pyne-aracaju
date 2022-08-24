@@ -1,0 +1,40 @@
+local,trilha,tipo,título,palestrante
+TIC,Barco de fogo,,Como Análise de Dados com Python me ajudou a correr melhor!,Marcel Caraciolo
+TIC,Barco de fogo,,Analisando dados do ENCEEJA com Python + PowerBI,Anne Kelly
+TIC,Barco de fogo,,Os três primeiros meses de 2020 - Análise com Python do primeiro impacto do covid-19 ,Luis Vinicius
+TIC,Barco de fogo,,De montando UTI de Covid para ir montar layout: o que aprendi na transição de carreira?,Jules
+TIC,Barco de fogo,,Qual a história que você vai contar,Rafa Mengui
+TIC,Barco de fogo,,Sankofa: retornar ao passado para entender o presente e reconstruir o futuro na educação brasileira,Lorena Pereira
+TIC,Barco de fogo,,Python para usuários de planilhas,Anicely
+TIC,Barco de fogo,,"Segurança na internet para crianças e adolescentes, uma análise em diferentes ângulos.",Marianna Ariel
+TIC,Barco de fogo,,Machine Learning em Python para detecção de fraudes no uso de cartão de crédito,Sandra Rosa
+TIC,Barco de fogo,palestra,Crie Aplicações facilmente utilizando Streamlit,Fernanda Santos
+TIC,Barco de fogo,palestra,Vieses Algorítmicos e Como Combatê-los,Luiz Fernando
+TIC,Barco de fogo,palestra,Testes em aplicações de processamento de dados,Mayara Machado
+TIC,Barco de fogo,palestra,Como tentei ficar rico automatizando apostas online,Wanderson Silva
+UNIT,Tototó,palestra,Pythinder: usando Kivy para não ficar no vácuo,Alynne 
+UNIT,Tototó,palestra,Processamento de dados em tempo real com PySpark,Natan Nascimento
+UNIT,Tototó,palestra,Testando seu codigo Python com Pytest,Betim
+UNIT,Tototó,palestra,Astrofísica & Python: Um Elo Essencial.,Vitória
+UNIT,Tototó,palestra,Escrevendo testes melhores com Model-bakery,Higor Monteiro
+UNIT,Tototó,palestra,Impacto da qualidade de imagem por ressonância magnética em deep neural network,Carlos Leandro
+UNIT,Tototó,palestra,Deploy de aplicações Django com serverless no Google Cloud Run,Lidiane
+UNIT,Tototó,palestra,Uso e importância de dados abertos municipais,Bruna
+UNIT,Tototó,palestra,Uitlizando Ipyannotator para anotações de tráfego ,Ítalo Epifânio
+UNIT,Tototó,palestra,Como estamos melhorando a gestão de demandas com Python: Um case de ETL com Python + Asana,Bruno Zamberlan
+UNIT,Tototó,palestra,Caçando exoplanetas com python,Ellias Matheus
+UNIT,Tototó,palestra,Código como lei: implementando e explicando web3 com web2,Rebeca Sarai
+Lab 1,Xingó,workshop,Jornalismo de Dados em Python,Alexandre e Gabriela
+Lab 1,Xingó,workshop,"Processamento de Linguagem Natural em Python: ""De Cabo a Rabo""",Pedro Assis
+Lab 1,Xingó,palestra,Visualização de Dados Abertos com Python,Adolfo
+Lab 1,Xingó,palestra,Memória não é confiável: Gestão de Conhecimento para times de engenharia,Hugo Bessa
+Lab 1,Xingó,palestra,Desmistificando a ORM do Django,Gabriela Leal
+Lab 1,Xingó,palestra,Aplicações Python em PaaS: 2022,Luiz Claudio
+Lab 1,Xingó,palestra,Tipagem dinâmica e estática em Python,
+Lab 1,Xingó,palestra,Como fazer uma apresentação de ciência de dados para quem não entende muito sobre dados,Anthoni Jatobá
+Lab 2,Reisado,palestra,Coletando dados do Twitter com Python,Adolfo Guimarães
+Lab 2,Reisado,workshop,Programação com Flowgorithm (Hands on Python),Kadidja e Kerlla
+Lab 2,Reisado,workshop,Passo-a-passo da criação do seu portal de dados abertos com o CKAN.,Lucas Emanuel
+Lab 2,Reisado,palestra,Sua aplicação web aguenta o tranco?,Claudio
+Lab 2,Reisado,workshop,"Ingerindo dados com pacote open-source Ingestum, casos de dados estruturados e não estruturados",Gustavo RPS
+Lab 2,Reisado,workshop,Detecção de Objetos “From Zero to Hero”,Angelo Menezes
