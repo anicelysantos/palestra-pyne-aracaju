@@ -1,0 +1,41 @@
+local,trilha,tipo,nome-atividade,palestrante,equipamento,avaliacao
+TIC,Barco de fogo,palestra,Como Análise de Dados com Python me ajudou a correr melhor!,Marcel Caraciolo,sem-pc,legal
+TIC,Barco de fogo,palestra,Analisando dados do ENCEEJA com Python + PowerBI,Anne Kelly,sem-pc,legal
+TIC,Barco de fogo,palestra,Os três primeiros meses de 2020 - Análise com Python do primeiro impacto do covid-19 ,Luis Vinicius,sem-pc,legal
+TIC,Barco de fogo,palestra,De montando UTI de Covid para ir montar layout: o que aprendi na transição de carreira?,Jules,sem-pc,legal
+TIC,Barco de fogo,palestra,Qual a história que você vai contar,Rafa Mengui,sem-pc,legal
+TIC,Barco de fogo,palestra,Sankofa: retornar ao passado para entender o presente e reconstruir o futuro na educação brasileira,Lorena Pereira,sem-pc,legal
+TIC,Barco de fogo,palestra,Python para usuários de planilhas,Anicely,sem-pc,legal
+TIC,Barco de fogo,palestra,"Segurança na internet para crianças e adolescentes, uma análise em diferentes ângulos.",Marianna Ariel,sem-pc,legal
+TIC,Barco de fogo,palestra,Machine Learning em Python para detecção de fraudes no uso de cartão de crédito,Sandra Rosa,sem-pc,legal
+TIC,Barco de fogo,palestra,Crie Aplicações facilmente utilizando Streamlit,Fernanda Santos,sem-pc,legal
+TIC,Barco de fogo,palestra,Vieses Algorítmicos e Como Combatê-los,Luiz Fernando,sem-pc,legal
+TIC,Barco de fogo,palestra,Testes em aplicações de processamento de dados,Mayara Machado,sem-pc,legal
+TIC,Barco de fogo,palestra,Como tentei ficar rico automatizando apostas online,Wanderson Silva,sem-pc,legal
+UNIT,Tototó,palestra,Pythinder: usando Kivy para não ficar no vácuo,Alynne ,sem-pc,otima
+UNIT,Tototó,palestra,Processamento de dados em tempo real com PySpark,Natan Nascimento,sem-pc,otima
+UNIT,Tototó,palestra,Testando seu codigo Python com Pytest,Betim,sem-pc,otima
+UNIT,Tototó,palestra,Astrofísica & Python: Um Elo Essencial.,Vitória,sem-pc,otima
+UNIT,Tototó,palestra,Escrevendo testes melhores com Model-bakery,Higor Monteiro,sem-pc,otima
+UNIT,Tototó,palestra,Impacto da qualidade de imagem por ressonância magnética em deep neural network,Carlos Leandro,sem-pc,otima
+UNIT,Tototó,palestra,Deploy de aplicações Django com serverless no Google Cloud Run,Lidiane,sem-pc,otima
+UNIT,Tototó,palestra,Uso e importância de dados abertos municipais,Bruna,sem-pc,otima
+UNIT,Tototó,palestra,Uitlizando Ipyannotator para anotações de tráfego ,Ítalo Epifânio,sem-pc,otima
+UNIT,Tototó,palestra,Como estamos melhorando a gestão de demandas com Python: Um case de ETL com Python + Asana,Bruno Zamberlan,sem-pc,otima
+UNIT,Tototó,palestra,Caçando exoplanetas com python,Ellias Matheus,sem-pc,otima
+UNIT,Tototó,palestra,Código como lei: implementando e explicando web3 com web2,Rebeca Sarai,sem-pc,otima
+Lab 1,Xingó,workshop,Jornalismo de Dados em Python,Alexandre e Gabriela,com-pc,maravilhosa
+Lab 1,Xingó,workshop,"Processamento de Linguagem Natural em Python: ""De Cabo a Rabo""",Pedro Assis,com-pc,maravilhosa
+Lab 1,Xingó,palestra,Visualização de Dados Abertos com Python,Adolfo,sem-pc,maravilhosa
+Lab 1,Xingó,palestra,Memória não é confiável: Gestão de Conhecimento para times de engenharia,Hugo Bessa,sem-pc,maravilhosa
+Lab 1,Xingó,palestra,Desmistificando a ORM do Django,Gabriela Leal,sem-pc,maravilhosa
+Lab 1,Xingó,palestra,Aplicações Python em PaaS: 2022,Luiz Claudio,sem-pc,maravilhosa
+Lab 1,Xingó,palestra,Tipagem dinâmica e estática em Python,Anthoni Jatobá,sem-pc,maravilhosa
+Lab 1,Xingó,palestra,Como fazer uma apresentação de ciência de dados para quem não entende muito sobre dados,Antônio Ramos,sem-pc,maravilhosa
+Lab 2,Reisado,palestra,Coletando dados do Twitter com Python,Adolfo Guimarães,sem-pc,gostei
+Lab 2,Reisado,workshop,Programação com Flowgorithm (Hands on Python),Kadidja e Kerlla,com-pc,gostei
+Lab 2,Reisado,workshop,Passo-a-passo da criação do seu portal de dados abertos com o CKAN.,Lucas Emanuel,com-pc,gostei
+Lab 2,Reisado,palestra,Sua aplicação web aguenta o tranco?,Claudio,sem-pc,gostei
+Lab 2,Reisado,workshop,"Ingerindo dados com pacote open-source Ingestum, casos de dados estruturados e não estruturados",Gustavo RPS,com-pc,gostei
+Lab 2,Reisado,workshop,Detecção de Objetos “From Zero to Hero”,Angelo Menezes,com-pc,gostei
+Lab3,aleatoria,palestra,teste de palestra,alguem,sem-pc,amei
